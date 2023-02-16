@@ -45,4 +45,4 @@ Dependent variables
 
 # Resources
 
-- [Datasets](https://github.com/CREST-Adelaide/LIEF-LIT-SingleBC-Dataset)
+- [Datasets](https://github.com/CREST-Adelaide/LIEF-LIT-MultiBC-Dataset)
